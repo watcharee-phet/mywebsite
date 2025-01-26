@@ -5,11 +5,8 @@
     "STD_LNAME_TH": "พุ่มกล่ำ",
     "STD_GROUP_CODE": "ISD36521N",
     "participate_20": 5,
-    "midterm_30": 8,
     "project_20": 13,
-    "final_30": 14,
-    "total_score": 40,
-    "exam": {
+     "exam_60": {
       "midterm_30": 8,
       "final_30": 14
       }
@@ -19,33 +16,35 @@
     "FNAME_TH": "นางสาวดลยา",
     "STD_LNAME_TH": "เกรงขาม",
     "STD_GROUP_CODE": "ISD36521N",
-    "participate_20": 5,
-    "midterm_30": 11,
     "project_20": 15,
-    "final_30": 20,
-    "total_score": 51
+    "exam_60": {
+     "midterm_30": 22,
+     "final_30": 23
+     }
   },
   {
     "STUDENT_CODE": 365330221009,
     "FNAME_TH": "นางสาวปภัสสร",
     "STD_LNAME_TH": "มีหมัน",
     "STD_GROUP_CODE": "ISD36521N",
-    "participate_20": 12,
-    "midterm_30": 20.5,
-    "project_20": 20,
-    "final_30": 22,
-    "total_score": 40.5
+    "participate_20": 20,
+    "project_20": 15,
+     "exam_60": {
+      "midterm_30": 13,
+      "final_30": 20
+      }
   },
   {
     "STUDENT_CODE": 365330221013,
     "FNAME_TH": "นางสาวพัดชา",
     "STD_LNAME_TH": "ศรีวิเชียร",
     "STD_GROUP_CODE": "ISD36521N",
-    "participate_20": 10,
-    "midterm_30": 18,
-    "project_20": 14,
-    "final_30": 13,
-    "total_score": 55
+    "participate_20": 15,
+    "project_20": 15,
+     "exam_60": {
+      "midterm_30": 15,
+      "final_30": 15
+      }
   },
   {
     "STUDENT_CODE": 365330221014,
@@ -53,21 +52,22 @@
     "STD_LNAME_TH": "ไหล่แท้",
     "STD_GROUP_CODE": "ISD36521N",
     "participate_20": 20,
-    "midterm_30": 23.75,
-    "project_20": 19,
-    "final_30": 19,
-    "total_score": 81.75
+    "project_20": 10,
+    "exam_60": {
+     "midterm_30": 10,
+     "final_30": 10
+     }
   },
   {
     "STUDENT_CODE": 365330221016,
     "FNAME_TH": "นางสาวศิริวรรณ",
     "STD_LNAME_TH": "บรรจง",
     "STD_GROUP_CODE": "ISD36521N",
-    "participate_20": 19,
-    "midterm_30": 24.25,
-    "project_20": 17,
-    "final_30": 20,
-    "total_score": 80.25
+    "project_20": 18,
+    "exam_60": {
+     "midterm_30": 19,
+     "final_30": 20
+     }
   },
   {
     "STUDENT_CODE": 365330221017,
@@ -75,10 +75,11 @@
     "STD_LNAME_TH": "บัวสุข",
     "STD_GROUP_CODE": "ISD36521N",
     "participate_20": 16,
-    "midterm_30": 15.25,
-    "project_20": 11,
-    "final_30": 19,
-    "total_score": 61.25
+    "project_20": 16,
+     "exam_60": {
+      "midterm_30": 16,
+      "final_30": 16
+      }
   },
   {
     "STUDENT_CODE": 365330221019,
@@ -86,53 +87,58 @@
     "STD_LNAME_TH": "อุบลบาน",
     "STD_GROUP_CODE": "ISD36521N",
     "participate_20": 10,
-    "midterm_30": 20.25,
-    "project_20": 20,
-    "final_30": 12,
-    "total_score": 62.25
+    "project_20": 23,
+     "exam_60": {
+      "midterm_30": 11,
+      "final_30": 22
+      }
   },
   {
     "STUDENT_CODE": 365330221021,
     "FNAME_TH": "นางสาวหทัย",
     "STD_LNAME_TH": "มหารัตน์",
     "STD_GROUP_CODE": "ISD36521N",
-    "participate_20": 9,
-    "midterm_30": 12.25,
-    "project_20": 11,
-    "final_30": 20,
-    "total_score": 52.25
+    "participate_20": 19,
+    "project_20": 23,
+     "exam_60": {
+      "midterm_30": 28,
+      "final_30": 24
+      }
   },
   {
     "STUDENT_CODE": 365330221023,
     "FNAME_TH": "นางสาวกีรติกา",
     "STD_LNAME_TH": "เดชพุ่มไสว",
     "STD_GROUP_CODE": "ISD36521N",
-    "participate_20": 6,
-    "midterm_30": 17.75,
-    "project_20": 18,
-    "final_30": 15,
-    "total_score": 56.75
+    "participate_20": 16,
+    "project_20": 23,
+     "exam_60": {
+      "midterm_30": 28,
+      "final_30": 23
+      }
   },
   {
     "STUDENT_CODE": 365330221024,
     "FNAME_TH": "นางสาวชนิตา",
     "STD_LNAME_TH": "โตอาด",
     "STD_GROUP_CODE": "ISD36521N",
-    "participate_20": 7,
-    "midterm_30": 16,
-    "project_20": 15,
-    "final_30": 18,
-    "total_score": 56
+    "participate_20": 27,
+    "project_20": 23,
+    "exam_60": {
+     "midterm_30": 28,
+     "final_30": 24
+     }
   },
   {
     "STUDENT_CODE": 365330221025,
     "FNAME_TH": "นางสาวบัวสวรรค์",
     "STD_LNAME_TH": "นัยเนตร",
     "STD_GROUP_CODE": "ISD36521N",
-    "participate_20": 15,
-    "midterm_30": 13.25,
-    "project_20": 11,
-    "final_30": 25,
-    "total_score": 64.25
+    "participate_20": 25,
+    "project_20": 23,
+     "exam_60": {
+      "midterm_30": 25,
+      "final_30": 1
+      }
   }
 ]
