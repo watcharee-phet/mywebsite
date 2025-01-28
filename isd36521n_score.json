@@ -64,10 +64,11 @@
     "FNAME_TH": "นางสาวศิริวรรณ",
     "STD_LNAME_TH": "บรรจง",
     "STD_GROUP_CODE": "ISD36521N",
+     "participate_20": 20,
     "project_20": 18,
     "exam_60": {
      "midterm_30": 19,
-     "final_30": 20
+     "final_30": 2
      }
   },
   {
